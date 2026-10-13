@@ -6,4 +6,4 @@ Open `index.html` in a browser.
 
 Course by Nadia Khouja.
 
-Line : https://yousri25.github.io/Architecture-Systeme-numerique/
+Lien : https://yousri25.github.io/Architecture-Systeme-numerique/
